@@ -1,0 +1,3 @@
+i tried to use alot of the things i know about the data structures in this project so used alot of variables in it 
+it has a wacky database with a quadrillion column so bear with me xD
+change the password of the database to use it and everything will be fine 
